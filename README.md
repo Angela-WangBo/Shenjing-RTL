@@ -1,10 +1,10 @@
 # Shenjing
 -------------------------------------
-Latest release:
+## Latest release
 
 [![Release](https://img.shields.io/github/downloads/Angela-WangBo/Shenjing-RTL/total.svg)](https://github.com/Angela-WangBo/Shenjing-RTL/releases/download/v1.0/Shenjing-RTL-1.0.zip)
 
-Paper
+## Paper
 
 [https://arxiv.org/abs/1911.10741](https://arxiv.org/abs/1911.10741)
 
@@ -16,7 +16,7 @@ This repo contains the RTL implementation of Shenjing. Shenjing.sv is the top de
 
 As illustrated above, shenjing is composed of three critical components: (a) neuron core; (b) partial-sum NoCs and (c) spike NoCs. A neuron core generates 256 local partial sums. A partial-sum NoC either propogates the partial sum or add it with an incoming partial sum. As a full weighted sum is acheived by partial sum additions, it will be integrated and triggered a spike in a spike NoC.
 
-# Citation
+## Citation
 The Shenjing work has been accepted by DATE 2020 conference.
 > Bo Wang\*, Jun Zhou\*, Weng-Fai Wong and Li-Shiuan Peh, "Shenjing: a low power reconfigurable accelerator for neuromorphic computing with partial-sum and spike networks-on-chip", Design, Automation and Test in Europe Conference, March 2020.  
 *\* Equally contributed*
