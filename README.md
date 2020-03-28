@@ -1,6 +1,6 @@
 # Shenjing
 -------------------------------------
-## Latest release
+## Download latest release
 
 [![Release](https://img.shields.io/github/downloads/Angela-WangBo/Shenjing-RTL/total.svg)](https://github.com/Angela-WangBo/Shenjing-RTL/releases/download/v1.0/Shenjing-RTL-1.0.zip)
 
