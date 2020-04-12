@@ -1,3 +1,5 @@
+![NUS](http://www.nus.edu.sg/images/default-source/base/logo.png)
+
 # Shenjing
 -------------------------------------
 ## Download latest release
